@@ -1,6 +1,6 @@
 # Julia Language
 
-[![Build status](https://ci.appveyor.com/api/projects/status/bh50nba9a5o8y5sf?svg=true)](https://ci.appveyor.com/project/madskristensen/codecleanuponsave)
+[![Build status](https://ci.appveyor.com/api/projects/status/n7l9gi2b3qu37gut?svg=true)](https://ci.appveyor.com/project/madskristensen/julialanguage)
 
 Automatically run one of the Code Clean profiles when saving the document. This ensures your code is always formatted correctly and follows your coding style conventions.
 
