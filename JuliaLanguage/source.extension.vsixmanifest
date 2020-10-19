@@ -3,7 +3,8 @@
     <Metadata>
         <Identity Id="JuliaLanguage.f47f50eb-bd98-45d8-b90c-6182c76d816f" Version="1.0" Language="en-US" Publisher="Mads Kristensen" />
         <DisplayName>Julia Language</DisplayName>
-        <Description xml:space="preserve">Adding basic language support for Julia</Description>
+        <Description xml:space="preserve">Adding basic language support for Julia. Includes syntax highlighting, outlining, guidelines and symbolic auto-completion</Description>
+        <MoreInfo>https://github.com/madskristensen/JuliaLanguage/</MoreInfo>
         <License>Resources\LICENSE</License>
         <Icon>Resources\Icon.png</Icon>
         <PreviewImage>Resources\Icon.png</PreviewImage>
